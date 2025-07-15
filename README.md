@@ -34,20 +34,19 @@ F1-Airflow-test-simulation/
    python view_mesh.py
 ```
 ---
-🧰 Dependencies
+## 🧰 Dependencies
 pyvista
-
 numpy
-
 scipy
 
-(Tambahkan sesuai isi requirements.txt)
-
+---
 📌 Catatan
 Project ini masih tahap eksperimen & belajar.
-
+--
 Model 3D disederhanakan (decimation) agar proses render lebih cepat.
 
-✏️ Author
-Ficram Manifur Farissa
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
+</p>
 
