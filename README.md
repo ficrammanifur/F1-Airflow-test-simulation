@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/visualization-PyVista-blue" />
   <img src="https://img.shields.io/badge/simulation-CFD-orange" />
   <img src="https://img.shields.io/badge/3D_modeling-STL%20%7C%20OBJ-green" />
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen" />
+  <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT" />
+  </a>
 </p>
 
 <p align="center">
